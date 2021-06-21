@@ -229,12 +229,12 @@
                         <a href="index.html">RM</a>
                     </div>
                     <ul class="sidebar-menu">
-                        <li><a class="nav-link" href="credits.html"><i class="fas fa-tachometer-alt"></i> <span>Dashboard</span></a></li>
-                        <li><a class="nav-link" href="credits.html"><i class="fas fa-car"></i> <span>Data Mobil</span></a></li>
-                        <li><a class="nav-link" href="credits.html"><i class="fas fa-grip-horizontal"></i> <span>Data Type</span></a></li>
-                        <li><a class="nav-link" href="credits.html"><i class="fas fa-users"></i> <span>Data Customer</span></a></li>
-                        <li><a class="nav-link" href="credits.html"><i class="fas fa-random"></i> <span>Transaksi</span></a></li>
-                        <li><a class="nav-link" href="credits.html"><i class="fas fa-clipboard-list"></i> <span>Laporan</span></a></li>
+                        <li><a class="nav-link" href="<?= base_url('admin/dashboard.php') ?>"><i class="fas fa-tachometer-alt"></i> <span>Dashboard</span></a></li>
+                        <li><a class="nav-link" href="<?= base_url('admin/data_mobil.php') ?>"><i class="fas fa-car"></i> <span>Data Mobil</span></a></li>
+                        <li><a class="nav-link" href="<?= base_url('admin/data_type.php') ?>"><i class="fas fa-grip-horizontal"></i> <span>Data Type</span></a></li>
+                        <li><a class="nav-link" href="<?= base_url('admin/data_customer.php') ?>"><i class="fas fa-users"></i> <span>Data Customer</span></a></li>
+                        <li><a class="nav-link" href="<?= base_url('admin/transaksi.php') ?>"><i class="fas fa-random"></i> <span>Transaksi</span></a></li>
+                        <li><a class="nav-link" href="<?= base_url('admin/laporan.php') ?>"><i class="fas fa-clipboard-list"></i> <span>Laporan</span></a></li>
                     </ul>
 
                     <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
