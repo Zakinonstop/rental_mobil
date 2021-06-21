@@ -119,7 +119,7 @@
                     <div class="card-body" id="top-5-scroll">
                         <ul class="list-unstyled list-unstyled-border">
                             <li class="media">
-                                <img class="mr-3 rounded" width="55" src="../assets/img/products/product-3-50.png" alt="product">
+                                <img class="mr-3 rounded" width="55" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-3-50.png" alt="product">
                                 <div class="media-body">
                                     <div class="float-right">
                                         <div class="font-weight-600 text-muted text-small">86 Sales</div>
@@ -138,7 +138,7 @@
                                 </div>
                             </li>
                             <li class="media">
-                                <img class="mr-3 rounded" width="55" src="../assets/img/products/product-4-50.png" alt="product">
+                                <img class="mr-3 rounded" width="55" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-4-50.png" alt="product">
                                 <div class="media-body">
                                     <div class="float-right">
                                         <div class="font-weight-600 text-muted text-small">67 Sales</div>
@@ -157,7 +157,7 @@
                                 </div>
                             </li>
                             <li class="media">
-                                <img class="mr-3 rounded" width="55" src="../assets/img/products/product-1-50.png" alt="product">
+                                <img class="mr-3 rounded" width="55" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-1-50.png" alt="product">
                                 <div class="media-body">
                                     <div class="float-right">
                                         <div class="font-weight-600 text-muted text-small">63 Sales</div>
@@ -176,7 +176,7 @@
                                 </div>
                             </li>
                             <li class="media">
-                                <img class="mr-3 rounded" width="55" src="../assets/img/products/product-3-50.png" alt="product">
+                                <img class="mr-3 rounded" width="55" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-3-50.png" alt="product">
                                 <div class="media-body">
                                     <div class="float-right">
                                         <div class="font-weight-600 text-muted text-small">28 Sales</div>
@@ -195,7 +195,7 @@
                                 </div>
                             </li>
                             <li class="media">
-                                <img class="mr-3 rounded" width="55" src="../assets/img/products/product-5-50.png" alt="product">
+                                <img class="mr-3 rounded" width="55" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-5-50.png" alt="product">
                                 <div class="media-body">
                                     <div class="float-right">
                                         <div class="font-weight-600 text-muted text-small">19 Sales</div>
@@ -239,7 +239,7 @@
                             <div>
                                 <div class="product-item pb-3">
                                     <div class="product-image">
-                                        <img alt="image" src="../assets/img/products/product-4-50.png" class="img-fluid">
+                                        <img alt="image" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-4-50.png" class="img-fluid">
                                     </div>
                                     <div class="product-details">
                                         <div class="product-name">iBook Pro 2018</div>
@@ -260,7 +260,7 @@
                             <div>
                                 <div class="product-item">
                                     <div class="product-image">
-                                        <img alt="image" src="../assets/img/products/product-3-50.png" class="img-fluid">
+                                        <img alt="image" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-3-50.png" class="img-fluid">
                                     </div>
                                     <div class="product-details">
                                         <div class="product-name">oPhone S9 Limited</div>
@@ -281,7 +281,7 @@
                             <div>
                                 <div class="product-item">
                                     <div class="product-image">
-                                        <img alt="image" src="../assets/img/products/product-1-50.png" class="img-fluid">
+                                        <img alt="image" src="<?= base_url('assets/assets_stisla') ?>/assets/img/products/product-1-50.png" class="img-fluid">
                                     </div>
                                     <div class="product-details">
                                         <div class="product-name">Headphone Blitz</div>
@@ -314,21 +314,21 @@
                                 <div class="text-title mb-2">July</div>
                                 <ul class="list-unstyled list-unstyled-border list-unstyled-noborder mb-0">
                                     <li class="media">
-                                        <img class="img-fluid mt-1 img-shadow" src="../node_modules/flag-icon-css/flags/4x3/id.svg" alt="image" width="40">
+                                        <img class="img-fluid mt-1 img-shadow" src="<?= base_url('assets/assets_stisla') ?>/node_modules/flag-icon-css/flags/4x3/id.svg" alt="image" width="40">
                                         <div class="media-body ml-3">
                                             <div class="media-title">Indonesia</div>
                                             <div class="text-small text-muted">3,282 <i class="fas fa-caret-down text-danger"></i></div>
                                         </div>
                                     </li>
                                     <li class="media">
-                                        <img class="img-fluid mt-1 img-shadow" src="../node_modules/flag-icon-css/flags/4x3/my.svg" alt="image" width="40">
+                                        <img class="img-fluid mt-1 img-shadow" src="<?= base_url('assets/assets_stisla') ?>/node_modules/flag-icon-css/flags/4x3/my.svg" alt="image" width="40">
                                         <div class="media-body ml-3">
                                             <div class="media-title">Malaysia</div>
                                             <div class="text-small text-muted">2,976 <i class="fas fa-caret-down text-danger"></i></div>
                                         </div>
                                     </li>
                                     <li class="media">
-                                        <img class="img-fluid mt-1 img-shadow" src="../node_modules/flag-icon-css/flags/4x3/us.svg" alt="image" width="40">
+                                        <img class="img-fluid mt-1 img-shadow" src="<?= base_url('assets/assets_stisla') ?>/node_modules/flag-icon-css/flags/4x3/us.svg" alt="image" width="40">
                                         <div class="media-body ml-3">
                                             <div class="media-title">United States</div>
                                             <div class="text-small text-muted">1,576 <i class="fas fa-caret-up text-success"></i></div>
@@ -340,21 +340,21 @@
                                 <div class="text-title mb-2">August</div>
                                 <ul class="list-unstyled list-unstyled-border list-unstyled-noborder mb-0">
                                     <li class="media">
-                                        <img class="img-fluid mt-1 img-shadow" src="../node_modules/flag-icon-css/flags/4x3/id.svg" alt="image" width="40">
+                                        <img class="img-fluid mt-1 img-shadow" src="<?= base_url('assets/assets_stisla') ?>/node_modules/flag-icon-css/flags/4x3/id.svg" alt="image" width="40">
                                         <div class="media-body ml-3">
                                             <div class="media-title">Indonesia</div>
                                             <div class="text-small text-muted">3,486 <i class="fas fa-caret-up text-success"></i></div>
                                         </div>
                                     </li>
                                     <li class="media">
-                                        <img class="img-fluid mt-1 img-shadow" src="../node_modules/flag-icon-css/flags/4x3/ps.svg" alt="image" width="40">
+                                        <img class="img-fluid mt-1 img-shadow" src="<?= base_url('assets/assets_stisla') ?>/node_modules/flag-icon-css/flags/4x3/ps.svg" alt="image" width="40">
                                         <div class="media-body ml-3">
                                             <div class="media-title">Palestine</div>
                                             <div class="text-small text-muted">3,182 <i class="fas fa-caret-up text-success"></i></div>
                                         </div>
                                     </li>
                                     <li class="media">
-                                        <img class="img-fluid mt-1 img-shadow" src="../node_modules/flag-icon-css/flags/4x3/de.svg" alt="image" width="40">
+                                        <img class="img-fluid mt-1 img-shadow" src="<?= base_url('assets/assets_stisla') ?>/node_modules/flag-icon-css/flags/4x3/de.svg" alt="image" width="40">
                                         <div class="media-body ml-3">
                                             <div class="media-title">Germany</div>
                                             <div class="text-small text-muted">2,317 <i class="fas fa-caret-down text-danger"></i></div>
